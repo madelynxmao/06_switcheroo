@@ -1,0 +1,2 @@
+main: switcheroo.c
+    gcc -o switcheroo switcheroo.c
